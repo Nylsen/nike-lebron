@@ -1,0 +1,11 @@
+@import "../scss/variables.scss";
+
+.home {
+  display: flex;
+  flex: 1 1 auto;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  overflow: auto;
+  background-color: $color-primary;
+}
